@@ -1,7 +1,7 @@
 [
   {
-    "id": 1,
-    "bundleId": "com.keinois.PrettyProgressApp",
+    "id": "test", // Change with each new alert
+    "version": "all", // Specify versions for the alert
     "title": "App Alert",
     "message": "App alert message test",
     "image": "sos.circle.fill"
