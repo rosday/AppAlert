@@ -4,7 +4,7 @@
     "appVersions": ["all"],
     "osVersions": ["all"],
     "entitlements": ["all"],
-    "title": "App Alert",
+    "title": "App rtterrdc",
     "message": "App alert message test lorem ipsum dolor sit amet.",
     "image": "exclamationmark.triangle.fill",
     "link": {
