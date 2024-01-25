@@ -1,7 +1,7 @@
 [
   {
-    "id": "test", // Change with each new alert
-    "version": "all", // Specify versions for the alert
+    "id": "test",
+    "versions": "all",
     "title": "App Alert",
     "message": "App alert message test",
     "image": "sos.circle.fill"
