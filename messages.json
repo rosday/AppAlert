@@ -3,7 +3,7 @@
     "id": "testing",
     "bundleId": "com.keinois.PrettyProgressApp",
     "appVersions": ["all"],
-    "osVersions": ["17.2"],
+    "osVersions": ["all"],
     "entitlements": ["all"],
     "title": "App Alert",
     "message": "App alert message test lorem ipsum dolor sit amet.",
