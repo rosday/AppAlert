@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "bundleId": "com.keinois.PrettyProgressApp",
+    "title": "App Alert",
+    "message": "App alert message test",
+    "image": "sos.circle.fill"
+  }
+]
