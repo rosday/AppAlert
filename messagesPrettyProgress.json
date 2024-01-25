@@ -2,6 +2,7 @@
   {
     "id": "test",
     "versions": "all",
+    "isResolved": false,
     "title": "App Alert",
     "message": "App alert message test",
     "image": "sos.circle.fill"
