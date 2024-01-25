@@ -1,7 +1,6 @@
 [
   {
     "id": "testing2",
-    "bundleId": "com.keinois.PrettyProgressApp",
     "appVersions": ["all"],
     "osVersions": ["all"],
     "entitlements": ["all"],
