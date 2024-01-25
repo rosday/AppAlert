@@ -2,7 +2,7 @@
   {
     "id": "test",
     "bundleId": "com.keinois.PrettyProgressApp",
-    "appVersions": ["all"],
+    "appVersions": ["1.14.0"],
     "osVersions": ["all"],
     "entitlements": ["all"],
     "title": "App Alert",
