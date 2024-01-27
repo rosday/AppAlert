@@ -6,7 +6,7 @@
     "entitlements": ["pro"],
     "titleLocalisations": [
       ["en", "App alert test"],
-      ["es", "Alerta test espanol"],
+      ["es", "Alerta test espanol"]
     ],
     "message": "App alert message test lorem ipsum dolor sit amet consectetur.",
     "image": "exclamationmark.triangle.fill",
