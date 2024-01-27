@@ -23,7 +23,14 @@
     "image": "exclamationmark.triangle.fill",
     "type": "alert",
     "link": {
-      "title": "Know more",
+      "title": [
+        ["en", "Know more"],
+        ["es", "Saber mas"],
+        ["it", "Italian link"],
+        ["fr", "French link"],
+        ["de", "German link"],
+        ["ru", "Russian link"]
+      ],
       "url": "https://prettyprogress.app/"
     }
   }
