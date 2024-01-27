@@ -3,7 +3,7 @@
     "id": "testing3",
     "appVersions": ["all"],
     "osVersions": ["all"],
-    "entitlements": ["free"],
+    "entitlements": ["all"],
     "titleLocalisations": [
       ["en", "App alert test"],
       ["es", "Alerta test espanol"],
