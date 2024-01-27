@@ -3,7 +3,7 @@
     "id": "testing3",
     "appVersions": ["all"],
     "osVersions": ["all"],
-    "entitlements": ["all"],
+    "entitlements": ["pro"],
     "title": "App alert test",
     "message": "App alert message test lorem ipsum dolor sit amet consectetur.",
     "image": "exclamationmark.triangle.fill",
