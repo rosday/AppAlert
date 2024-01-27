@@ -12,7 +12,7 @@
       ["de", "Alerta test german"],
       ["ru", "Alerta test russian"]
     ],
-    "messageLOcalisations": [
+    "messageLocalisations": [
       ["en", "App alert message test lorem ipsum dolor sit amet consectetur."],
       ["es", "App alert message test lorem ipsum dolor spanish."],
       ["it", "App alert message test lorem ipsum dolor italian."],
