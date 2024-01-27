@@ -3,12 +3,23 @@
     "id": "testing3",
     "appVersions": ["all"],
     "osVersions": ["all"],
-    "entitlements": ["pro"],
+    "entitlements": ["free"],
     "titleLocalisations": [
       ["en", "App alert test"],
-      ["es", "Alerta test espanol"]
+      ["es", "Alerta test espanol"],
+      ["it", "Alerta test italian"],
+      ["fr", "Alerta test french"],
+      ["de", "Alerta test german"],
+      ["ru", "Alerta test russian"]
     ],
-    "message": "App alert message test lorem ipsum dolor sit amet consectetur.",
+    "messageLOcalisations": [
+      ["en", "App alert message test lorem ipsum dolor sit amet consectetur."],
+      ["es", "App alert message test lorem ipsum dolor spanish."],
+      ["it", "App alert message test lorem ipsum dolor italian."],
+      ["fr", "App alert message test lorem ipsum dolor french."],
+      ["de", "App alert message test lorem ipsum dolor german."],
+      ["ru", "App alert message test lorem ipsum dolor russian."]
+    ],
     "image": "exclamationmark.triangle.fill",
     "type": "alert",
     "link": {
