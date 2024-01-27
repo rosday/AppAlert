@@ -4,7 +4,10 @@
     "appVersions": ["all"],
     "osVersions": ["all"],
     "entitlements": ["pro"],
-    "title": "App alert test",
+    "title": [
+      ["en", "App alert test"],
+      ["es", "Alerta test espanol"],
+    ],
     "message": "App alert message test lorem ipsum dolor sit amet consectetur.",
     "image": "exclamationmark.triangle.fill",
     "type": "alert",
