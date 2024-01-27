@@ -23,7 +23,7 @@
     "image": "exclamationmark.triangle.fill",
     "type": "alert",
     "link": {
-      "title": [
+      "titleLocalisations": [
         ["en", "Know more"],
         ["es", "Saber mas"],
         ["it", "Italian link"],
