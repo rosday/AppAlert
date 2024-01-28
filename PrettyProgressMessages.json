@@ -1,7 +1,7 @@
 [
   {
     "id": "testing",
-    "appVersions": ["0"],
+    "appVersions": ["all"],
     "osVersions": ["all"],
     "entitlements": ["all"],
     "titleLocalisations": [
