@@ -10,7 +10,8 @@
       ["it", "Alerta test italian"],
       ["fr", "Alerta test french"],
       ["de", "Alerta test german"],
-      ["ru", "Alerta test russian"]
+      ["ru", "Alerta test russian"],
+      ["ko", "Alerta test korean"]
     ],
     "messageLocalisations": [
       ["en", "App alert message test lorem ipsum dolor sit amet consectetur."],
@@ -18,7 +19,8 @@
       ["it", "App alert message test lorem ipsum dolor italian."],
       ["fr", "App alert message test lorem ipsum dolor french."],
       ["de", "App alert message test lorem ipsum dolor german."],
-      ["ru", "App alert message test lorem ipsum dolor russian."]
+      ["ru", "App alert message test lorem ipsum dolor russian."],
+      ["ko", "App alert message test lorem ipsum dolor korean,"]
     ],
     "image": "exclamationmark.triangle.fill",
     "type": "alert",
@@ -29,7 +31,8 @@
         ["it", "Italian link"],
         ["fr", "French link"],
         ["de", "German link"],
-        ["ru", "Russian link"]
+        ["ru", "Russian link"],
+        ["ko", "Korean link"]
       ],
       "url": "https://prettyprogress.app/"
     }
