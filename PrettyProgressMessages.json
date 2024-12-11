@@ -1,7 +1,7 @@
 [
   {
     "id": "testing",
-    "appVersions": ["0"],
+    "appVersions": ["0", "1.19.8"],
     "osVersions": ["all"],
     "entitlements": ["all"],
     "titleLocalisations": [
@@ -11,7 +11,9 @@
       ["fr", "Alerta test french"],
       ["de", "Alerta test german"],
       ["ru", "Alerta test russian"],
-      ["ko", "Alerta test korean"]
+      ["ko", "Alerta test korean"],
+      ["zh-Hans", "Alerta test Chinese simplified"],
+      ["zh-Hant", "Alerta test Chinese traditional"]
     ],
     "messageLocalisations": [
       ["en", "App alert message test lorem ipsum dolor sit amet consectetur."],
@@ -20,7 +22,9 @@
       ["fr", "App alert message test lorem ipsum dolor french."],
       ["de", "App alert message test lorem ipsum dolor german."],
       ["ru", "App alert message test lorem ipsum dolor russian."],
-      ["ko", "App alert message test lorem ipsum dolor korean,"]
+      ["ko", "App alert message test lorem ipsum dolor korean,"],
+      ["zh-Hans", "App alert message test lorem ipsum dolor Chinese simplified"],
+      ["zh-Hant", "App alert message test lorem ipsum dolor Chinese traditional"]
     ],
     "image": "exclamationmark.triangle.fill",
     "type": "alert",
@@ -32,7 +36,9 @@
         ["fr", "French link"],
         ["de", "German link"],
         ["ru", "Russian link"],
-        ["ko", "Korean link"]
+        ["ko", "Korean link"],
+        ["zh-Hans", "Chinese simplified link"],
+        ["zh-Hant", "Chinese traditional link"]
       ],
       "url": "https://prettyprogress.app/"
     }
