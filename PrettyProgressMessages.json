@@ -28,7 +28,7 @@
     ],
     "image": "exclamationmark.triangle.fill",
     "type": "alert",
-    "link": {
+    "link": [{
       "titleLocalisations": [
         ["en", "Know more"],
         ["es", "Saber mas"],
@@ -41,6 +41,6 @@
         ["zh-Hant", "Chinese traditional link"]
       ],
       "url": "https://prettyprogress.app/"
-    }
+    }]
   }
 ]
