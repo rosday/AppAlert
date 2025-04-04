@@ -6,25 +6,25 @@
     "entitlements": ["all"],
     "titleLocalisations": [
       ["en", "Update your app to the latest version"],
-      ["es", "Alerta test espanol"],
-      ["it", "Alerta test italian"],
-      ["fr", "Alerta test french"],
-      ["de", "Alerta test german"],
-      ["ru", "Alerta test russian"],
-      ["ko", "Alerta test korean"],
-      ["zh-Hans", "Alerta test Chinese simplified"],
-      ["zh-Hant", "Alerta test Chinese traditional"]
+      ["es", "Actualiza tu app a la última versión"],
+      ["it", "Aggiorna la tua app all'ultima versione"],
+      ["fr", "Mettez à jour votre application vers la dernière version"],
+      ["de", "Aktualisiere deine App auf die neueste Version"],
+      ["ru", "Обновите приложение до последней версии"],
+      ["ko", "앱을 최신 버전으로 업데이트하세요"],
+      ["zh-Hans", "将您的应用更新至最新版本"],
+      ["zh-Hant", "將您的應用程式更新至最新版本"]
     ],
     "messageLocalisations": [
-      ["en", "iOS 18.4.0 introduced some issues fixed in the latest app version. Please, kindly update for a better experience."],
-      ["es", "App alert message test lorem ipsum dolor spanish."],
-      ["it", "App alert message test lorem ipsum dolor italian."],
-      ["fr", "App alert message test lorem ipsum dolor french."],
-      ["de", "App alert message test lorem ipsum dolor german."],
-      ["ru", "App alert message test lorem ipsum dolor russian."],
-      ["ko", "App alert message test lorem ipsum dolor korean,"],
-      ["zh-Hans", "App alert message test lorem ipsum dolor Chinese simplified"],
-      ["zh-Hant", "App alert message test lorem ipsum dolor Chinese traditional"]
+      ["en", "iOS 18.4.0 has introduced some issues fixed in the latest app version. Please, kindly update for a better experience."],
+      ["es", "iOS 18.4.0 introdujo algunos problemas que se han corregido en la última versión de la app. Por favor, actualiza para una mejor experiencia."],
+      ["it", "iOS 18.4.0 ha introdotto alcuni problemi risolti nell'ultima versione dell'app. Ti preghiamo di aggiornare per un'esperienza migliore."],
+      ["fr", "iOS 18.4.0 a introduit des problèmes corrigés dans la dernière version de l'application. Veuillez mettre à jour pour une meilleure expérience."],
+      ["de", "iOS 18.4.0 hat einige Probleme verursacht, die in der neuesten App-Version behoben wurden. Bitte aktualisiere für ein besseres Erlebnis."],
+      ["ru", "iOS 18.4.0 вызвала некоторые проблемы, которые были исправлены в последней версии приложения. Пожалуйста, обновите для лучшего опыта."],
+      ["ko", "iOS 18.4.0에서 발생한 문제가 최신 앱 버전에서 수정되었습니다. 더 나은 사용을 위해 업데이트해 주세요."],
+      ["zh-Hans", "iOS 18.4.0 引入的问题已在最新版本中修复。请更新以获得更好的体验。"],
+      ["zh-Hant", "iOS 18.4.0 引入的問題已在最新版本中修復。請更新以獲得更好的體驗。"]
     ],
     "image": "exclamationmark.triangle.fill",
     "type": "alert"
