@@ -2,7 +2,7 @@
   {
     "id": "testing1234",
     "appVersions": ["1.19.14"],
-    "osVersions": ["18.4.0", "18.4.1", "18.4.2", "18.5.0", "18.5.1"],
+    "osVersions": ["18.3.2", "18.4.0", "18.4.1", "18.4.2", "18.5.0", "18.5.1"],
     "entitlements": ["all"],
     "titleLocalisations": [
       ["en", "Update app to the latest version"],
