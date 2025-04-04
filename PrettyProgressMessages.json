@@ -5,7 +5,7 @@
     "osVersions": ["18.4.0", "18.4.1", "18.4.2", "18.5.0", "18.5.1"],
     "entitlements": ["all"],
     "titleLocalisations": [
-      ["en", "Update your app to the latest version"],
+      ["en", "Update app to the latest version"],
       ["es", "Actualiza tu app a la última versión"],
       ["it", "Aggiorna la tua app all'ultima versione"],
       ["fr", "Mettez à jour votre application vers la dernière version"],
@@ -27,6 +27,20 @@
       ["zh-Hant", "iOS 18.4.0 引入的問題已在最新版本中修復。請更新以獲得更好的體驗。"]
     ],
     "image": "exclamationmark.triangle.fill",
-    "type": "alert"
+    "type": "alert",
+    "link": [{
+      "titleLocalisations": [
+        ["en", "Open App Store"],
+        ["es", "Abrir App Store"],
+        ["it", "Apri l'App Store"],
+        ["fr", "Ouvrir l'App Store"],
+        ["de", "App Store öffnen"],
+        ["ru", "Открыть App Store"],
+        ["ko", "App Store 열기"],
+        ["zh-Hans", "打开 App Store"],
+        ["zh-Hant", "打開 App Store"]
+      ],
+      "url": "https://apps.apple.com/app/countdown-pretty-progress/id1597616326"
+    }]
   }
 ]
