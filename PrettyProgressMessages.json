@@ -16,7 +16,7 @@
       ["zh-Hant", "Alerta test Chinese traditional"]
     ],
     "messageLocalisations": [
-      ["en", "iOS 18.4.0 update introduced some issues that are fixed in the latest version of the app. Please, kindly update for a better experience."],
+      ["en", "iOS 18.4.0 introduced some issues fixed in the latest app version. Please, kindly update for a better experience."],
       ["es", "App alert message test lorem ipsum dolor spanish."],
       ["it", "App alert message test lorem ipsum dolor italian."],
       ["fr", "App alert message test lorem ipsum dolor french."],
